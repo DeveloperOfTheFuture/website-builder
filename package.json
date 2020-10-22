@@ -1,0 +1,19 @@
+{
+  "name": "website-builder",
+  "version": "1.0.0",
+  "description": "JavaScript simple website builder",
+  "main": "index.js",
+  "scripts": {
+    "serve": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html --no-source-maps"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
