@@ -4,4 +4,4 @@
 
 Использовал хостинг от Firebase.
 
-Найти можно здесь - [https://website-builder-6deae.web.app/]
+Найти можно здесь - https://website-builder-6deae.web.app/
